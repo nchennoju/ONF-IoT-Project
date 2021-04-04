@@ -17,7 +17,7 @@ BATTERY_HIGH = 15.3
 PORT = 65432 #TCP Port
 receiveMsg = "MSG RCV"
 
-CONNECTION_STRING = 'HostName=iRobotHub.azure-devices.net;DeviceId=mypi;SharedAccessKey=bLbJYEHBxa3lAUJ3hAx50kwb+p2nVlvmZ3rgl7jXdoM='
+CONNECTION_STRING = 'HostName=...
 TEMPERATURE = 20.0 
 HUMIDITY = 60
 CONSTANT = 60
